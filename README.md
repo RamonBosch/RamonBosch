@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamonBosch
-- 👀 I’m interested in UX/UI, game design and development and visual design
+- 👀 I’m interested in UX/UI, game design and development, and visual design
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Unreal Engine
 - 💞️ I’m looking to collaborate on mobile app design and development
 - 📫 Reach me at hello@ramonbosch.com
